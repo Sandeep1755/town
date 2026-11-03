@@ -103,20 +103,17 @@
               <img class="ev-brand-logo" src="images/town-square-logo.webp" alt="Town Square Realtors">
             </a>
             <p class="text-accent fw-semibold mb-2" style="font-size:0.95rem">Where Your Dream Address Becomes Reality.</p>
-            <p class="mb-4" style="max-width:36ch;font-size:0.92rem;color:#555e68">Your destination for exploring flats, residential apartments, independent houses, plots and commercial properties across Zirakpur, Dera Bassi, Mohali, PR7 Airport Road and Panchkula.</p>
+            <p class="mb-4" style="max-width:36ch;font-size:0.92rem;color:#555e68">
+              Your destination for exploring flats, homes, plots and commercial properties across Zirakpur, Dera Bassi,
+              Mohali, PR7 Airport Road and Panchkula.
+            </p>
             <div class="social-row">
-              <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-                <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
-              </a>
-              <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                <i class="fa-brands fa-instagram" aria-hidden="true"></i>
-              </a>
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-                <i class="fa-brands fa-twitter" aria-hidden="true"></i>
-              </a>
-              <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-                <i class="fa-brands fa-youtube" aria-hidden="true"></i>
-              </a>
+              <a href="https://wa.me/917340841100" target="_blank" rel="noopener"
+                aria-label="WhatsApp Town Square Realtors"><i class="fa-brands fa-whatsapp" aria-hidden="true"></i></a>
+              <a href="tel:+917340841100" aria-label="Call Town Square Realtors"><i class="fa-solid fa-phone"
+                aria-hidden="true"></i></a>
+              <a href="mailto:info.townsquare32@gmail.com" aria-label="Email Town Square Realtors"><i
+                class="fa-solid fa-envelope" aria-hidden="true"></i></a>
             </div>
           </div>
           <div class="col-lg-2 col-md-6 col-6">
@@ -128,8 +125,6 @@
               <li><a href="properties.html?status=For+Rent">Rent Property</a></li>
               <li><a href="properties.html?type=Commercial%20Properties">Commercial Properties</a></li>
               <li><a href="contact.html?intent=list">Sell Your Property</a></li>
-              <li><a href="services.html">Our Services</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-6">
@@ -144,15 +139,20 @@
           <div class="col-lg-3 col-md-6">
             <h5>CONTACT INFORMATION</h5>
             <ul class="mb-4">
-              <li><i class="fa-solid fa-phone me-2 text-accent" aria-hidden="true"></i>Phone: <a href="tel:+917340841100">+91 7340841100</a>, <a href="tel:+917340861100">+91 7340861100</a></li>
-              <li><i class="fa-brands fa-whatsapp me-2 text-accent" aria-hidden="true"></i>WhatsApp: <a href="https://wa.me/917340841100" target="_blank" rel="noopener">+91 7340841100</a></li>
-              <li><i class="fa-solid fa-envelope me-2 text-accent" aria-hidden="true"></i>Email: <a href="mailto:info.townsquare32@gmail.com">info.townsquare32@gmail.com</a></li>
-              <li class="mt-2"><i class="fa-solid fa-location-dot me-2 text-accent" aria-hidden="true"></i>SCO-32, 2nd Floor, La-Mer, Opp. Dhillon Plaza, Airport Road, Zirakpur, Punjab – 140603</li>
+              <li><i class="fa-solid fa-phone me-2 text-accent" aria-hidden="true"></i> <a href="tel:+917340861100">+91
+                7340861100</a></li>
+              <li><i class="fa-brands fa-whatsapp me-2 text-accent" aria-hidden="true"></i> <a
+                href="https://wa.me/917340841100" target="_blank" rel="noopener">+91 7340841100</a></li>
+              <li><i class="fa-solid fa-envelope me-2 text-accent" aria-hidden="true"></i><a
+                href="mailto:info.townsquare32@gmail.com">info.townsquare32@gmail.com</a></li>
+              <li class="mt-2"><i class="fa-solid fa-location-dot me-2 text-accent" aria-hidden="true"></i>SCO-32, 2nd
+                Floor, La-Mer, Opp. Dhillon Plaza, Airport Road, Zirakpur, Punjab – 140603</li>
             </ul>
           </div>
         </div>
         <div class="footer-bottom d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
-          <span class="fw-semibold text-dark">TOWN SQUARE REALTORS – YOUR PROPERTY GOALS, OUR PROFESSIONAL GUIDANCE.</span>
+          <span class="fw-semibold text-dark">TOWN SQUARE REALTORS – YOUR PROPERTY GOALS, OUR PROFESSIONAL
+            GUIDANCE.</span>
           <span>© 2026 Town Square Realtors. All Rights Reserved.</span>
         </div>
       </div>
