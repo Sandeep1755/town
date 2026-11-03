@@ -144,7 +144,6 @@
           <div class="col-lg-3 col-md-6">
             <h5>CONTACT INFORMATION</h5>
             <ul class="mb-4">
-              <li><i class="fa-solid fa-user me-2 text-accent" aria-hidden="true"></i>Contact Person: <strong>Mr. Vishul</strong></li>
               <li><i class="fa-solid fa-phone me-2 text-accent" aria-hidden="true"></i>Phone: <a href="tel:+917340841100">+91 7340841100</a>, <a href="tel:+917340861100">+91 7340861100</a></li>
               <li><i class="fa-brands fa-whatsapp me-2 text-accent" aria-hidden="true"></i>WhatsApp: <a href="https://wa.me/917340841100" target="_blank" rel="noopener">+91 7340841100</a></li>
               <li><i class="fa-solid fa-envelope me-2 text-accent" aria-hidden="true"></i>Email: <a href="mailto:info.townsquare32@gmail.com">info.townsquare32@gmail.com</a></li>
